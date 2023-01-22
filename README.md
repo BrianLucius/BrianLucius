@@ -6,7 +6,7 @@ In 2022 I completed a full-time full-stack software development bootcamp with [C
 
 | [Yoga Nidra Script Manager](https://github.com/BrianLucius/yoga_nidra) | [Feelz Social Sentiment Tracking](https://github.com/BrianLucius/feelz) | [DiviTrack](https://github.com/BrianLucius/DiviTrack) |
 |:---:|:---:|:---:|
-|<img src="https://github.com/BrianLucius/BrianLucius/blob/main/assets/yoga_nidra.png" alt="Screen shot of the yoga nidra app" width="300"> |<img src="https://github.com/BrianLucius/BrianLucius/blob/main/assets/feelz.png" alt="Screen shot of the feelz.cc app" width="200"> |<img src="https://github.com/BrianLucius/BrianLucius/blob/main/assets/divitrack.png" alt="Screen shot of the DiviTrack app" width="300"> |
+|<a href="https://github.com/BrianLucius/yoga_nidra"><img src="https://github.com/BrianLucius/BrianLucius/blob/main/assets/yoga_nidra.png" alt="Screen shot of the yoga nidra app" width="300"></a> |<a href="https://github.com/BrianLucius/feelz"><img src="https://github.com/BrianLucius/BrianLucius/blob/main/assets/feelz.png" alt="Screen shot of the feelz.cc app" width="200"></a> |<a href="https://github.com/BrianLucius/DiviTrack"><img src="https://github.com/BrianLucius/BrianLucius/blob/main/assets/divitrack.png" alt="Screen shot of the DiviTrack app" width="300"></a> |
 
 ### Languages 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css)](https://skillicons.dev) 
