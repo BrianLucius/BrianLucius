@@ -1,6 +1,6 @@
 ### Howdy, I'm Brian 👋 
 
-I'm a career IT professional who just can't stop learning. My day isn't complete unless I've learned at least one new thing. I've spent the last 15 years of my career in the data warehouse and business intelligence spaces and am now venturing down the web applications software development path to learn even more.
+I'm a career IT professional who just can't stop learning. My day isn't complete unless I've learned at least one new thing. I've spent the past 15 years of my career in the data warehouse and business intelligence spaces and am now venturing down the web applications software development path to learn even more.
 
 In 2022 I completed a full-time full-stack software development bootcamp with [Coding Dojo](https://www.codingdojo.com/). Take a peek at each of my three capstone projects below.
 
